@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home_page_navbar-image {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+}
+#navItem1 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem2 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem3 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem4 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem5 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem6 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem7 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem8 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem9 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem10 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem11 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem12 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem13 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem14 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem15 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem16 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem17 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem18 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem19 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+#navItem20 {
+  color: #222b29;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+span {
+  color: #bd390d !important;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #064c4e;
+}
+.hr {
+  color: #bd390d;
+  height: 3px;
+  width: 350px;
+  border-style: solid;
+  background-color: #bd390d;
+  text-align: left;
+}
+.about-us-container {
+  padding: 10px;
+  border-radius: 8px;
+  border-style: solid;
+  background-color: burlywood;
+  border-width: 0px;
+}
+.foun-img {
+  height: 40%;
+  width: 100%;
+  border-radius: 15px;
+}
+.foun-par {
+  padding: 10px;
+  border-radius: 8px;
+  border-style: solid;
+  background-color: rgb(202, 197, 190);
+  border-width: 0px;
+}
+.proj-img {
+  height: 40%;
+  width: 100%;
+  border-radius: 15px;
+}
